@@ -1,2 +1,1 @@
-# Awesome-Multi-label-Image-Learning
- 
+# Awesome-Multi-label-Image-Recognition
