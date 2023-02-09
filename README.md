@@ -1,1 +1,3 @@
-# Awesome-Multi-label-Image-Recognition
+# Awesome-Multi-label-Image-Learning
+
+ [![Stars](https://img.shields.io/github/stars/yu-gi-oh-leilei/Awesome-Multi-label-Image-Learning.svg?color=orange)](https://github.com/yu-gi-oh-leilei/Awesome-Multi-label-Image-Learning/stargazers) [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![License](https://img.shields.io/github/license/yu-gi-oh-leilei/Awesome-Multi-label-Image-Learning.svg?color=green)](https://github.com/yu-gi-oh-leilei/image-registration-resources/blob/master/LICENSE) ![](https://img.shields.io/github/last-commit/yu-gi-oh-leilei/Awesome-Multi-label-Image-Learning)
